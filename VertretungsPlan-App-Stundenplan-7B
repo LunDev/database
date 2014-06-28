@@ -1,0 +1,399 @@
+{
+    "Stundenplan": [
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "MI",
+                    "Fach": "GE",
+                    "Raum": "R205"
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "KIR",
+                    "Fach": "M",
+                    "Raum": "R205"
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "LU",
+                    "Fach": "EK",
+                    "Raum": "R205"
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "HR",
+                    "Fach": "D",
+                    "Raum": "R205"
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "LU",
+                    "Fach": "EK",
+                    "Raum": "R205"
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "F�",
+                    "Fach": "F.",
+                    "Raum": "R205"
+                },
+                {
+                    "Lehrer": "HR",
+                    "Fach": "L",
+                    "Raum": "R207"
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "ZI",
+                    "Fach": "E",
+                    "Raum": "R205"
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "KIR",
+                    "Fach": "M",
+                    "Raum": "R205"
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "TE",
+                    "Fach": "MU",
+                    "Raum": "M126"
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "F�",
+                    "Fach": "F.",
+                    "Raum": "R205"
+                },
+                {
+                    "Lehrer": "HR",
+                    "Fach": "L",
+                    "Raum": "R207"
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "ZI",
+                    "Fach": "E",
+                    "Raum": "R205"
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "SCH",
+                    "Fach": "KR.",
+                    "Raum": "R204"
+                },
+                {
+                    "Lehrer": "BA",
+                    "Fach": "ER",
+                    "Raum": "R205"
+                },
+                {
+                    "Lehrer": "KB",
+                    "Fach": "PPL",
+                    "Raum": "R206"
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "HR",
+                    "Fach": "D",
+                    "Raum": "R205"
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "F�",
+                    "Fach": "F.",
+                    "Raum": "R205"
+                },
+                {
+                    "Lehrer": "HR",
+                    "Fach": "L",
+                    "Raum": "R207"
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "KIR",
+                    "Fach": "M",
+                    "Raum": "R205"
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "HR",
+                    "Fach": "D",
+                    "Raum": "R205"
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "WO",
+                    "Fach": "SP",
+                    "Raum": "TH2"
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "STR",
+                    "Fach": "CH",
+                    "Raum": "C123"
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "ZI",
+                    "Fach": "E",
+                    "Raum": "R205"
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "SCH",
+                    "Fach": "KR.",
+                    "Raum": "R204"
+                },
+                {
+                    "Lehrer": "BA",
+                    "Fach": "ER",
+                    "Raum": "R205"
+                },
+                {
+                    "Lehrer": "KB",
+                    "Fach": "PPL",
+                    "Raum": "R206"
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "",
+                    "Fach": "",
+                    "Raum": ""
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "",
+                    "Fach": "",
+                    "Raum": ""
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "",
+                    "Fach": "",
+                    "Raum": ""
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "",
+                    "Fach": "",
+                    "Raum": ""
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "",
+                    "Fach": "",
+                    "Raum": ""
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "",
+                    "Fach": "",
+                    "Raum": ""
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "",
+                    "Fach": "",
+                    "Raum": ""
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "WO",
+                    "Fach": "SP",
+                    "Raum": "THKS"
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "STR",
+                    "Fach": "CH",
+                    "Raum": "C123"
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "",
+                    "Fach": "",
+                    "Raum": ""
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "",
+                    "Fach": "",
+                    "Raum": ""
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "",
+                    "Fach": "",
+                    "Raum": ""
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "",
+                    "Fach": "",
+                    "Raum": ""
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "",
+                    "Fach": "",
+                    "Raum": ""
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "",
+                    "Fach": "",
+                    "Raum": ""
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "",
+                    "Fach": "",
+                    "Raum": ""
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "",
+                    "Fach": "",
+                    "Raum": ""
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "",
+                    "Fach": "",
+                    "Raum": ""
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "",
+                    "Fach": "",
+                    "Raum": ""
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "",
+                    "Fach": "",
+                    "Raum": ""
+                }
+            ]
+        }
+    ]
+}
