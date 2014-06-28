@@ -1,0 +1,889 @@
+{
+    "Stundenplan": [
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "SCH",
+                    "Fach": "DGK3.",
+                    "Raum": "R304"
+                },
+                {
+                    "Lehrer": "SRD",
+                    "Fach": "EGK5",
+                    "Raum": "R306"
+                },
+                {
+                    "Lehrer": "SF",
+                    "Fach": "GEBI1",
+                    "Raum": "R210"
+                },
+                {
+                    "Lehrer": "STO",
+                    "Fach": "KUGK1",
+                    "Raum": "K241"
+                },
+                {
+                    "Lehrer": "WA",
+                    "Fach": "EGK1",
+                    "Raum": "R305"
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "LIM",
+                    "Fach": "LGK3.",
+                    "Raum": "R305"
+                },
+                {
+                    "Lehrer": "MO",
+                    "Fach": "CHGK1",
+                    "Raum": "C123"
+                },
+                {
+                    "Lehrer": "TY",
+                    "Fach": "DGK1",
+                    "Raum": "R304"
+                },
+                {
+                    "Lehrer": "KF",
+                    "Fach": "IFGK2",
+                    "Raum": "R302"
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "KI",
+                    "Fach": "DGK5.",
+                    "Raum": "R304"
+                },
+                {
+                    "Lehrer": "POL",
+                    "Fach": "KUGK3",
+                    "Raum": "K241"
+                },
+                {
+                    "Lehrer": "JAR",
+                    "Fach": "MGK3",
+                    "Raum": "R305"
+                },
+                {
+                    "Lehrer": "SR",
+                    "Fach": "MGK5",
+                    "Raum": "R306"
+                },
+                {
+                    "Lehrer": "HEN",
+                    "Fach": "PHGK3",
+                    "Raum": "P237"
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "RT",
+                    "Fach": "BIGK1.",
+                    "Raum": "P237"
+                },
+                {
+                    "Lehrer": "BF",
+                    "Fach": "PAGK2",
+                    "Raum": "R305"
+                },
+                {
+                    "Lehrer": "THO",
+                    "Fach": "GEGK2",
+                    "Raum": "R306"
+                },
+                {
+                    "Lehrer": "LIE",
+                    "Fach": "SPGK1",
+                    "Raum": "TH1"
+                },
+                {
+                    "Lehrer": "NE",
+                    "Fach": "EKGK1",
+                    "Raum": "R304"
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "SCH",
+                    "Fach": "DGK3.",
+                    "Raum": "R304"
+                },
+                {
+                    "Lehrer": "SRD",
+                    "Fach": "EGK5",
+                    "Raum": "R306"
+                },
+                {
+                    "Lehrer": "SF",
+                    "Fach": "GEBI1",
+                    "Raum": "R210"
+                },
+                {
+                    "Lehrer": "STO",
+                    "Fach": "KUGK1",
+                    "Raum": "K241"
+                },
+                {
+                    "Lehrer": "WA",
+                    "Fach": "EGK1",
+                    "Raum": "R305"
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "KLM",
+                    "Fach": "EKBI1.",
+                    "Raum": "R203"
+                },
+                {
+                    "Lehrer": "AS",
+                    "Fach": "FGK1",
+                    "Raum": "R305"
+                },
+                {
+                    "Lehrer": "MI",
+                    "Fach": "IGK2",
+                    "Raum": "R306"
+                },
+                {
+                    "Lehrer": "JAR",
+                    "Fach": "MGK4",
+                    "Raum": "R304"
+                },
+                {
+                    "Lehrer": "J�C",
+                    "Fach": "SWGK1",
+                    "Raum": "R210"
+                },
+                {
+                    "Lehrer": "SNE",
+                    "Fach": "SWGK3",
+                    "Raum": "R310"
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "SRD",
+                    "Fach": "EGK3.",
+                    "Raum": "R304"
+                },
+                {
+                    "Lehrer": "ST",
+                    "Fach": "EKGK2",
+                    "Raum": "R310"
+                },
+                {
+                    "Lehrer": "AS",
+                    "Fach": "FGK2",
+                    "Raum": "R305"
+                },
+                {
+                    "Lehrer": "DB",
+                    "Fach": "IFGK1",
+                    "Raum": "R302"
+                },
+                {
+                    "Lehrer": "HR",
+                    "Fach": "LGK1",
+                    "Raum": "R306"
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "LIM",
+                    "Fach": "LGK3.",
+                    "Raum": "R305"
+                },
+                {
+                    "Lehrer": "MO",
+                    "Fach": "CHGK1",
+                    "Raum": "B121"
+                },
+                {
+                    "Lehrer": "TY",
+                    "Fach": "DGK1",
+                    "Raum": "R304"
+                },
+                {
+                    "Lehrer": "KF",
+                    "Fach": "IFGK2",
+                    "Raum": "R301"
+                },
+                {
+                    "Lehrer": "OCK",
+                    "Fach": "SPGK2",
+                    "Raum": "TH1"
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "KLM",
+                    "Fach": "EKBI1.",
+                    "Raum": "R203"
+                },
+                {
+                    "Lehrer": "AS",
+                    "Fach": "FGK1",
+                    "Raum": "R305"
+                },
+                {
+                    "Lehrer": "MI",
+                    "Fach": "IGK2",
+                    "Raum": "R306"
+                },
+                {
+                    "Lehrer": "JAR",
+                    "Fach": "MGK4",
+                    "Raum": "R304"
+                },
+                {
+                    "Lehrer": "J�C",
+                    "Fach": "SWGK1",
+                    "Raum": "R210"
+                },
+                {
+                    "Lehrer": "SNE",
+                    "Fach": "SWGK3",
+                    "Raum": "R310"
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "EH",
+                    "Fach": "ERGK1.",
+                    "Raum": "R304"
+                },
+                {
+                    "Lehrer": "DR",
+                    "Fach": "ERGK2",
+                    "Raum": "R305"
+                },
+                {
+                    "Lehrer": "MK",
+                    "Fach": "KRGK1",
+                    "Raum": "R306"
+                },
+                {
+                    "Lehrer": "SCH",
+                    "Fach": "KRGK2",
+                    "Raum": "R203"
+                },
+                {
+                    "Lehrer": "SNR",
+                    "Fach": "PLGK1",
+                    "Raum": "R308"
+                },
+                {
+                    "Lehrer": "KB",
+                    "Fach": "PLGK2",
+                    "Raum": "R210"
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "SRD",
+                    "Fach": "EGK3.",
+                    "Raum": "R304"
+                },
+                {
+                    "Lehrer": "ST",
+                    "Fach": "EKGK2",
+                    "Raum": "R310"
+                },
+                {
+                    "Lehrer": "AS",
+                    "Fach": "FGK2",
+                    "Raum": "R305"
+                },
+                {
+                    "Lehrer": "DB",
+                    "Fach": "IFGK1",
+                    "Raum": "R302"
+                },
+                {
+                    "Lehrer": "HR",
+                    "Fach": "LGK1",
+                    "Raum": "R306"
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "BIT",
+                    "Fach": "BIGK3.",
+                    "Raum": "B125"
+                },
+                {
+                    "Lehrer": "HO",
+                    "Fach": "BIGK4",
+                    "Raum": "C123"
+                },
+                {
+                    "Lehrer": "WR",
+                    "Fach": "DGK2",
+                    "Raum": "R304"
+                },
+                {
+                    "Lehrer": "TE",
+                    "Fach": "MUGK2",
+                    "Raum": "M126"
+                },
+                {
+                    "Lehrer": "SNE",
+                    "Fach": "SWGK2",
+                    "Raum": "R306"
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "EH",
+                    "Fach": "ERGK1.",
+                    "Raum": "R304"
+                },
+                {
+                    "Lehrer": "DR",
+                    "Fach": "ERGK2",
+                    "Raum": "R305"
+                },
+                {
+                    "Lehrer": "MK",
+                    "Fach": "KRGK1",
+                    "Raum": "R306"
+                },
+                {
+                    "Lehrer": "SCH",
+                    "Fach": "KRGK2",
+                    "Raum": "R203"
+                },
+                {
+                    "Lehrer": "SNR",
+                    "Fach": "PLGK1",
+                    "Raum": "R308"
+                },
+                {
+                    "Lehrer": "KB",
+                    "Fach": "PLGK2",
+                    "Raum": "R210"
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "WI",
+                    "Fach": "EGK4.",
+                    "Raum": "R304"
+                },
+                {
+                    "Lehrer": "POL",
+                    "Fach": "KUGK2",
+                    "Raum": "K241"
+                },
+                {
+                    "Lehrer": "TE",
+                    "Fach": "MUGK1",
+                    "Raum": "M126"
+                },
+                {
+                    "Lehrer": "LIM",
+                    "Fach": "SPGK5",
+                    "Raum": "TH2"
+                },
+                {
+                    "Lehrer": "DR",
+                    "Fach": "LGK2",
+                    "Raum": "R305"
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "SF",
+                    "Fach": "EGK2.",
+                    "Raum": "R304"
+                },
+                {
+                    "Lehrer": "KU",
+                    "Fach": "PAGK1",
+                    "Raum": "R305"
+                },
+                {
+                    "Lehrer": "MI",
+                    "Fach": "IGK3",
+                    "Raum": "R306"
+                },
+                {
+                    "Lehrer": "KNE",
+                    "Fach": "MGK2",
+                    "Raum": "R203"
+                },
+                {
+                    "Lehrer": "HEN",
+                    "Fach": "PHGK2",
+                    "Raum": "P235"
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "RT",
+                    "Fach": "BIGK2.",
+                    "Raum": "B121"
+                },
+                {
+                    "Lehrer": "JA",
+                    "Fach": "DGK4",
+                    "Raum": "R304"
+                },
+                {
+                    "Lehrer": "BIT",
+                    "Fach": "PAGK3",
+                    "Raum": "R305"
+                },
+                {
+                    "Lehrer": "RK",
+                    "Fach": "GEGK3",
+                    "Raum": "R306"
+                },
+                {
+                    "Lehrer": "KNE",
+                    "Fach": "PHGK1",
+                    "Raum": "P237"
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "MO",
+                    "Fach": "CHGK2.",
+                    "Raum": "C123"
+                },
+                {
+                    "Lehrer": "M�",
+                    "Fach": "GEGK1",
+                    "Raum": "R304"
+                },
+                {
+                    "Lehrer": "AN",
+                    "Fach": "IGK1",
+                    "Raum": "R305"
+                },
+                {
+                    "Lehrer": "SRD",
+                    "Fach": "MGK1",
+                    "Raum": "R306"
+                },
+                {
+                    "Lehrer": "THO",
+                    "Fach": "SWGK4",
+                    "Raum": "R307"
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "SF",
+                    "Fach": "EGK2.",
+                    "Raum": "R304"
+                },
+                {
+                    "Lehrer": "KU",
+                    "Fach": "PAGK1",
+                    "Raum": "R305"
+                },
+                {
+                    "Lehrer": "MI",
+                    "Fach": "IGK3",
+                    "Raum": "R306"
+                },
+                {
+                    "Lehrer": "KNE",
+                    "Fach": "MGK2",
+                    "Raum": "R203"
+                },
+                {
+                    "Lehrer": "HEN",
+                    "Fach": "PHGK2",
+                    "Raum": "P235"
+                },
+                {
+                    "Lehrer": "HO",
+                    "Fach": "SPGK3",
+                    "Raum": "TH2"
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "KI",
+                    "Fach": "DGK5.",
+                    "Raum": "R304"
+                },
+                {
+                    "Lehrer": "POL",
+                    "Fach": "KUGK3",
+                    "Raum": "K241"
+                },
+                {
+                    "Lehrer": "JAR",
+                    "Fach": "MGK3",
+                    "Raum": "R305"
+                },
+                {
+                    "Lehrer": "SR",
+                    "Fach": "MGK5",
+                    "Raum": "R306"
+                },
+                {
+                    "Lehrer": "HEN",
+                    "Fach": "PHGK3",
+                    "Raum": "P237"
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "RT",
+                    "Fach": "BIGK2.",
+                    "Raum": "B125"
+                },
+                {
+                    "Lehrer": "JA",
+                    "Fach": "DGK4",
+                    "Raum": "R304"
+                },
+                {
+                    "Lehrer": "BIT",
+                    "Fach": "PAGK3",
+                    "Raum": "R305"
+                },
+                {
+                    "Lehrer": "RK",
+                    "Fach": "GEGK3",
+                    "Raum": "R306"
+                },
+                {
+                    "Lehrer": "KNE",
+                    "Fach": "PHGK1",
+                    "Raum": "P235"
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "MI",
+                    "Fach": "IGK3.",
+                    "Raum": "R306"
+                },
+                {
+                    "Lehrer": "SRD",
+                    "Fach": "MGKV",
+                    "Raum": "R305"
+                },
+                {
+                    "Lehrer": "HO",
+                    "Fach": "SPGK3",
+                    "Raum": "TH1"
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "RT",
+                    "Fach": "BIGK1.",
+                    "Raum": "B125"
+                },
+                {
+                    "Lehrer": "BF",
+                    "Fach": "PAGK2",
+                    "Raum": "R305"
+                },
+                {
+                    "Lehrer": "THO",
+                    "Fach": "GEGK2",
+                    "Raum": "R306"
+                },
+                {
+                    "Lehrer": "LIE",
+                    "Fach": "SPGK1",
+                    "Raum": "TH1"
+                },
+                {
+                    "Lehrer": "NE",
+                    "Fach": "EKGK1",
+                    "Raum": "R304"
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "WI",
+                    "Fach": "EGK4.",
+                    "Raum": "R304"
+                },
+                {
+                    "Lehrer": "POL",
+                    "Fach": "KUGK2",
+                    "Raum": "K241"
+                },
+                {
+                    "Lehrer": "TE",
+                    "Fach": "MUGK1",
+                    "Raum": "M126"
+                },
+                {
+                    "Lehrer": "LIM",
+                    "Fach": "SPGK5",
+                    "Raum": "TH1"
+                },
+                {
+                    "Lehrer": "DR",
+                    "Fach": "LGK2",
+                    "Raum": "R305"
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "MO",
+                    "Fach": "CHGK2.",
+                    "Raum": "C123"
+                },
+                {
+                    "Lehrer": "M�",
+                    "Fach": "GEGK1",
+                    "Raum": "R304"
+                },
+                {
+                    "Lehrer": "AN",
+                    "Fach": "IGK1",
+                    "Raum": "R305"
+                },
+                {
+                    "Lehrer": "SRD",
+                    "Fach": "MGK1",
+                    "Raum": "R306"
+                },
+                {
+                    "Lehrer": "THO",
+                    "Fach": "SWGK4",
+                    "Raum": "R307"
+                },
+                {
+                    "Lehrer": "SRK",
+                    "Fach": "SPGK4",
+                    "Raum": "TH1"
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "BIT",
+                    "Fach": "BIGK3.",
+                    "Raum": "B121"
+                },
+                {
+                    "Lehrer": "HO",
+                    "Fach": "BIGK4",
+                    "Raum": "B125"
+                },
+                {
+                    "Lehrer": "WR",
+                    "Fach": "DGK2",
+                    "Raum": "R304"
+                },
+                {
+                    "Lehrer": "TE",
+                    "Fach": "MUGK2",
+                    "Raum": "M126"
+                },
+                {
+                    "Lehrer": "SNE",
+                    "Fach": "SWGK2",
+                    "Raum": "R306"
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "",
+                    "Fach": "",
+                    "Raum": ""
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "SRK",
+                    "Fach": "SPGK4",
+                    "Raum": "TH1"
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "",
+                    "Fach": "",
+                    "Raum": ""
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "",
+                    "Fach": "",
+                    "Raum": ""
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "",
+                    "Fach": "",
+                    "Raum": ""
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "STB",
+                    "Fach": "JAP",
+                    "Raum": "STB"
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "OCK",
+                    "Fach": "SPGK2",
+                    "Raum": "TH1"
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "AN",
+                    "Fach": "IGK1.",
+                    "Raum": "R305"
+                },
+                {
+                    "Lehrer": "MI",
+                    "Fach": "IGK2",
+                    "Raum": "R306"
+                },
+                {
+                    "Lehrer": "STB",
+                    "Fach": "JAP",
+                    "Raum": "STB"
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "SRK",
+                    "Fach": "EGKV",
+                    "Raum": "R304"
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "",
+                    "Fach": "",
+                    "Raum": ""
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "",
+                    "Fach": "",
+                    "Raum": ""
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "",
+                    "Fach": "",
+                    "Raum": ""
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "",
+                    "Fach": "",
+                    "Raum": ""
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "",
+                    "Fach": "",
+                    "Raum": ""
+                }
+            ]
+        },
+        {
+            "Stunde": [
+                {
+                    "Lehrer": "",
+                    "Fach": "",
+                    "Raum": ""
+                }
+            ]
+        }
+    ]
+}
