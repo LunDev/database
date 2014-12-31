@@ -1,2 +1,5 @@
-Fixed automatic Update!
-a few Bugfixes!
+- complete messaging from Android to MRL
+- complete messaging from MRL to Android
+- start recognition from Python
+- send custom text from MRL to Android to display in a pop-up
+- possibly a few more things, I can't remember
